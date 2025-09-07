@@ -2,7 +2,8 @@ WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 400
 
 BLACK = (0, 0, 0)
-WHITE = (200, 200, 200)
+WHITE = (255, 255, 255)
+GREY = (200, 200, 200)
 
 KEYS = {
     "a": "a6.mp3",
